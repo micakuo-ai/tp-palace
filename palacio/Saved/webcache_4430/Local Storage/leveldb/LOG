@@ -1,8 +1,6 @@
-2026/06/23-10:02:41.954 4444 Reusing MANIFEST C:/Users/super/OneDrive/Documentos/GitHub/tp-palace/palacio/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2026/06/23-10:02:41.984 4444 Recovering log #25
-2026/06/23-10:02:41.984 4444 Level-0 table #29: started
-2026/06/23-10:02:41.990 4444 Level-0 table #29: 75042 bytes OK
-2026/06/23-10:02:41.995 4444 Delete type=0 #25
-2026/06/23-10:05:08.219 4a78 Level-0 table #32: started
-2026/06/23-10:05:08.226 4a78 Level-0 table #32: 75190 bytes OK
-2026/06/23-10:05:08.229 4a78 Delete type=0 #30
+2026/06/29-18:36:35.443 36a4 Reusing MANIFEST C:/Users/super/OneDrive/Documentos/GitHub/tp-palace/palacio/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/06/29-18:36:35.455 36a4 Recovering log #31
+2026/06/29-18:36:35.456 36a4 Reusing old log C:/Users/super/OneDrive/Documentos/GitHub/tp-palace/palacio/Saved/webcache_4430\Local Storage\leveldb/000031.log 
+2026/06/29-18:37:37.956 2428 Level-0 table #35: started
+2026/06/29-18:37:37.962 2428 Level-0 table #35: 75190 bytes OK
+2026/06/29-18:37:37.967 2428 Delete type=0 #31
